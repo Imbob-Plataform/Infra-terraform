@@ -1,0 +1,1 @@
+#Ponto que gerencia a análise

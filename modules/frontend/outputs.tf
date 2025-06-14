@@ -1,0 +1,1 @@
+#Resultados do frontend importantes

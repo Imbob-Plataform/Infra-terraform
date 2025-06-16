@@ -1,1 +1,0 @@
-#Resultados da análise importantes 

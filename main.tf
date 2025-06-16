@@ -19,15 +19,3 @@ module "frontend" {
   app_name = "Imbob-View"
   location = var.location
 }
-
-module "backend" {
-  source   = "./modules/backend"
-  app_name = "Sinapi-Pipeline"
-  location = var.location
-}
-
-module "analise_dados" {
-  source   = "./modules/analise_dados"
-  app_name = "Sinapi-Analysis"
-  location = var.location
-}

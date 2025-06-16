@@ -1,5 +1,4 @@
 #Ponto que gerencia o frontend
-# Ponto que gerencia o frontend
 resource "azurerm_resource_group" "rg" {
   name     = "${var.app_name}-rg"
   location = var.location

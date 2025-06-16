@@ -1,4 +1,4 @@
-#Variáveis
+#Variáveis frontend
 variable "app_name" {
   description = "Imbob-View"
   type        = string

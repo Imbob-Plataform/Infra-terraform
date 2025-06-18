@@ -6,8 +6,6 @@
 
 - [terraform version 3.116.0](https://developer.hashicorp.com/terraform)
 
-## 📌 Features
-
 ## 🛠️ How to Use Terraform
 
 - You need to install the terraform im your computer in this link:
